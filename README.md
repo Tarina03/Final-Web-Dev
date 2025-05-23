@@ -13,5 +13,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 #This is a video of me using the app
 
-https://github.com/user-attachments/assets/6e281b21-a1ce-45f9-8013-f30665c790f8
+https://github.com/user-attachments/assets/9f5577bd-ea07-4604-a83f-f968db104347
+
 
